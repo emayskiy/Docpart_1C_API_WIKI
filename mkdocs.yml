@@ -2,6 +2,6 @@ site_name: Docpart 1C API
 nav:
     - Описание: index.md
     - Установка: install.md
-    - Методы API: methods.md                  
+    - Методы API: methods.md
     - Примеры использования: samples.md
 theme: readthedocs
