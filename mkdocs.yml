@@ -1,5 +1,6 @@
 site_name: Docpart 1C API
 nav:
-    - Home: /wiki/index.md
-    - About: /wiki/sample.md
+    - Описание: index.md
+    - Установка: install.md
+    - Примеры вызова: samples.md
 theme: readthedocs

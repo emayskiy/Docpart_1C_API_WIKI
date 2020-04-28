@@ -1,6 +1,8 @@
-# Welcome to MkDocs
+# Описание сервиса
 
-For full documentation visit [mkdocs.org](https://www.mkdocs.org).
+На ресурсе представлена документация по веб-сервису для платформы Docpart который позволяет организовать обмен с учетными системами на базе 1С Предприятие 8.
+
+Для получения дополнительной информации пишите на emayskiy@yandex.ru
 
 ## Commands
 
