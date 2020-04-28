@@ -1,1 +1,5 @@
 site_name: Docpart 1C API
+nav:
+    - Home: /wiki/index.md
+    - About: /wiki/sample.md
+theme: readthedocs
