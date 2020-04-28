@@ -2,8 +2,8 @@ site_name: Docpart 1C API
 nav:
     - 'Описание': 'index.md'
     - 'Установка': 'install.md'
-    - 'Методы API': 'methods.md'
-     - 'Общие': 'common_methods.md'
+    - 'Методы API':
+     - 'Общие параметры': 'common_methods.md'
      - 'Заказы': 'order_methods.md'
      - 'Оплаты': 'payment_methods.md'
      - 'Клиенты': 'users_methods.md'
