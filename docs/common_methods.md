@@ -1,6 +1,5 @@
 # Общие параметры
 
-
 Для всех запросов обязательна передача заголовка
 
 'content-type: application/x-www-form-urlencoded'
