@@ -8,7 +8,7 @@ API позволяет организовать обмен с вашими уч�
 Если у вас есть вопросы по работе или использованию API, то свяжитесь со мной:
 
 - Email: [emayskiy@ya.ru](mailto:emayskiy@ya.ru)
-- Skype: [emayskiy](skype:username?chat)
+- Skype: [emayskiy](skype:emayskiy?chat)
 - Telegram: [@emayskiy](https://t.me/emayskiy)
 
 
