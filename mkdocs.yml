@@ -8,5 +8,6 @@ nav:
         - 'Оплаты': 'payment_methods.md'
         - 'Клиенты': 'users_methods.md'
         - 'Каталог товаров': 'cat_methods.md'
+        - 'Прайс-листы': 'prices.md'
     - 'Примеры использования': 'samples.md'
 theme: readthedocs
